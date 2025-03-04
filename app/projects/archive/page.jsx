@@ -13,12 +13,12 @@ export default function Page () {
   return (
 		<>
 			<main className="overflow-hidden">
-				<FixedButon href="/projects">
+				{/* <FixedButon href="/projects">
 					<FontAwesomeIcon
 						icon={faChevronLeft}
 						className="text-black pr-10"
 					/>
-				</FixedButon>
+				</FixedButon> */}
 				<div className="min-h-screen w-screen mt-10 md:mt-0  p-10 flex justify-center items-center flex-col mb-10">
 					<div className="flex justify-center items-center flex-col my-5 self-start ">
 						<motion.div
