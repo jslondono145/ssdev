@@ -12,7 +12,7 @@ import Image1 from "@/public/image/me2.jpg";
 import Image2 from "@/public/image/me2.jpg";
 import Image3 from "@/public/image/me2.jpg";
 import Setup from "@/public/image/setup.jpg";
-import ProjectAll from "@/public/image/projects.png";
+// import ProjectAll from "@/public/image/projects.png";
 import Hr from "@/components/Hr";
 import "@/app/(root)/page.css";
 // icons
